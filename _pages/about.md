@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. University of Alberta.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University Terrace, UAlberta</p>
+    <p>Edmonton, Alberta</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Assefa, a first-year PhD student in the Department of Radiology and Diagnostic Imaging at the University of Alberta. I completed my master's degree in Computer Software from [University of Science and Technology](https://www.ust.ac.kr/eng/) (가연구소대학교) in Daejeon, South Korea, and obtained my Bachelor of Engineering in Electronic Information Engineering from [University of Science and Technology of China](https://en.uestc.edu.cn) (电子科技大学) in Chengdu, China.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in exploring methods to apply large pre-trained models in general computer vision to the field of medical imaging. This involves techniques such as parameter-efficient fine-tuning (PEFT), model size reduction through pruning, fast adaptation (meta-learning), and life-long (continual) learning. My goal is to accomplish this with minimal expert-labeled data by leveraging techniques from self-supervised learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you’re interested in collaborating, feel free to email me at assefas221@gmail.com or wahd@ualberta.ca, or send me a DM on social media.
+
+
