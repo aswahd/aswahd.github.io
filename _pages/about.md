@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Alberta. NIDUS
+subtitle: <a href='#'>Affiliations</a>. University of Alberta. <a href="https://nidusai.ca/">NIDUS</a>
 
 profile:
   align: right
