@@ -24,3 +24,4 @@ I am working on methods for adapting large pre-trained models in general compute
 If you’re interested in collaborating, feel free to email me at assefas221@gmail.com or wahd@ualberta.ca, or send me a DM on social media.
 
 
+You can download my CV [here](/assets/pdf/CV_WAHD.pdf).
