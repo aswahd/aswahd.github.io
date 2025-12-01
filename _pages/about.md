@@ -17,11 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Assefa, a first-year PhD student in the Department of Radiology and Diagnostic Imaging at the University of Alberta. I completed my master's degree in Computer Software from [University of Science and Technology](https://www.ust.ac.kr/eng/) (가연구소대학교) in Daejeon, South Korea, and obtained my Bachelor of Engineering in Electronic Information Engineering from [University of Science and Technology of China](https://en.uestc.edu.cn) (电子科技大学) in Chengdu, China.
+Hi! I'm Assefa, a 3rd year Ph.D. candidate in the Department of Radiology and Diagnostic Imaging at the University of Alberta.  I completed my master's degree in Computer Software from [University of Science and Technology](https://www.ust.ac.kr/eng/) (가연구소대학교) in Daejeon, South Korea, and obtained my Bachelor of Engineering in Electronic Information Engineering from [University of Science and Technology of China](https://en.uestc.edu.cn) (电子科技大学) in Chengdu, China.
 
-I am working on methods for adapting large pre-trained models in general computer vision to the field of medical imaging. This involves techniques such as parameter-efficient fine-tuning (PEFT), model size reduction through pruning, fast adaptation, and life-long (continual) learning. My goal is to accomplish this with minimal expert-labeled data by leveraging techniques from self-supervised learning.
+I am interested in medical image processing, computer vision, and reinforcement learning. My background spans semantic and instance segmentation, object detection, and out-of-distribution detection.
 
-If you’re interested in collaborating, feel free to email me at assefas221@gmail.com or wahd@ualberta.ca, or send me a DM on social media.
-
-
+If you’re interested in collaborating, feel free to reach me at <wahd@ualberta.ca>.
 You can download my CV [here](/assets/pdf/CV_WAHD.pdf).
